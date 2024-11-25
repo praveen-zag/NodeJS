@@ -1,0 +1,1 @@
+Here we created a file in Node with async readFile and read 2 files to write: hello this is first file, hello this is second file
